@@ -1,0 +1,73 @@
+{
+  "user_mailing_settings": {
+    "8728680606": {
+      "message_type": null,
+      "groups_count": 0,
+      "groups_list": [],
+      "interval": 5,
+      "cycle_interval": 5,
+      "auto_stop_time": null,
+      "mention_enabled": false,
+      "is_active": false,
+      "start_time": null,
+      "stop_time": null
+    },
+    "6732042025": {
+      "message_type": "Обычное",
+      "groups_count": 2,
+      "groups_list": [
+        {
+          "id": 3913225708,
+          "title": "𝗕𝗨𝗬𝗟𝗢𝗪 𝗖𝗛𝗔𝗧",
+          "participants_count": 658
+        },
+        {
+          "id": 4484365133,
+          "title": "𝗡𝗙𝗧 𝗕𝗬 𝗖𝗛𝗔𝗧",
+          "participants_count": 3570
+        }
+      ],
+      "interval": 5,
+      "cycle_interval": 2,
+      "auto_stop_time": null,
+      "mention_enabled": false,
+      "is_active": false,
+      "start_time": "2026-09-04 16:50:59.267951",
+      "stop_time": null
+    }
+  },
+  "user_mailing_stats": {
+    "8728680606": {
+      "status": "Остановлена",
+      "sent_today": 0,
+      "sent_total": 0,
+      "current_cycle": 0,
+      "completed_cycles": 0,
+      "selected_groups": 0,
+      "ready_to_send": 0,
+      "time_between_messages": 5,
+      "time_between_cycles": 5,
+      "last_cycle_start": null
+    },
+    "6732042025": {
+      "status": "Остановлена пользователем",
+      "sent_today": 2,
+      "sent_total": 2,
+      "current_cycle": 0,
+      "completed_cycles": 1,
+      "selected_groups": 2,
+      "ready_to_send": 2,
+      "time_between_messages": 5,
+      "time_between_cycles": 2,
+      "last_cycle_start": "2026-09-04T16:51:05.266062"
+    }
+  },
+  "user_sent_messages": {
+    "6732042025": {
+      "text": "Привет🥰",
+      "media": null,
+      "buttons": []
+    }
+  },
+  "user_referrals": {}
+}

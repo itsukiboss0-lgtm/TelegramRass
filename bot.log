@@ -1,0 +1,175 @@
+2026-09-04 17:32:06,733 - handlers.accounts - INFO - 📂 Аккаунты загружены из data.json
+2026-09-04 17:32:06,746 - utils.scheduler - INFO - Планировщик запущен
+2026-09-04 17:32:06,747 - aiogram.dispatcher - INFO - Start polling
+2026-09-04 17:32:06,983 - aiogram.dispatcher - INFO - Run polling for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 17:32:07,405 - aiogram.event - INFO - Update id=630801703 is handled. Duration 326 ms by bot id=8619872863
+2026-09-04 17:32:14,847 - aiogram.event - INFO - Update id=630801704 is handled. Duration 225 ms by bot id=8619872863
+2026-09-04 17:32:19,815 - aiogram.event - INFO - Update id=630801705 is handled. Duration 436 ms by bot id=8619872863
+2026-09-04 17:32:24,898 - aiogram.event - INFO - Update id=630801706 is handled. Duration 425 ms by bot id=8619872863
+2026-09-04 17:32:28,576 - aiogram.event - INFO - Update id=630801707 is handled. Duration 225 ms by bot id=8619872863
+2026-09-04 17:32:46,377 - aiogram.event - INFO - Update id=630801708 is handled. Duration 335 ms by bot id=8619872863
+2026-09-04 17:32:55,262 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-04 17:32:55,263 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-04 17:32:55,263 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8619872863)
+2026-09-04 17:32:55,518 - utils.scheduler - INFO - Планировщик остановлен
+2026-09-04 17:32:55,521 - handlers.accounts - INFO - ✅ Аккаунты сохранены в data.json
+2026-09-04 17:32:55,524 - aiogram.dispatcher - INFO - Polling stopped for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 17:32:55,526 - __main__ - INFO - Бот остановлен.
+2026-09-04 17:41:22,651 - handlers.accounts - INFO - 📂 Аккаунты загружены из data.json
+2026-09-04 17:41:22,662 - utils.scheduler - INFO - 🔄 Планировщик запущен
+2026-09-04 17:41:22,662 - aiogram.dispatcher - INFO - Start polling
+2026-09-04 17:41:22,918 - aiogram.dispatcher - INFO - Run polling for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 17:41:30,900 - aiogram.event - INFO - Update id=630801709 is handled. Duration 1002 ms by bot id=8619872863
+2026-09-04 17:41:37,884 - aiogram.event - INFO - Update id=630801710 is handled. Duration 236 ms by bot id=8619872863
+2026-09-04 17:41:41,614 - aiogram.event - INFO - Update id=630801711 is handled. Duration 229 ms by bot id=8619872863
+2026-09-04 17:41:43,772 - aiogram.event - INFO - Update id=630801712 is handled. Duration 236 ms by bot id=8619872863
+2026-09-04 17:41:45,762 - aiogram.event - INFO - Update id=630801713 is handled. Duration 504 ms by bot id=8619872863
+2026-09-04 17:41:49,848 - aiogram.event - INFO - Update id=630801714 is handled. Duration 235 ms by bot id=8619872863
+2026-09-04 17:41:51,964 - aiogram.event - INFO - Update id=630801715 is handled. Duration 486 ms by bot id=8619872863
+2026-09-04 17:41:55,613 - aiogram.event - INFO - Update id=630801716 is handled. Duration 448 ms by bot id=8619872863
+2026-09-04 17:42:01,180 - aiogram.event - INFO - Update id=630801717 is handled. Duration 480 ms by bot id=8619872863
+2026-09-04 17:42:05,040 - aiogram.event - INFO - Update id=630801718 is handled. Duration 233 ms by bot id=8619872863
+2026-09-04 17:44:49,770 - aiogram.event - INFO - Update id=630801719 is handled. Duration 329 ms by bot id=8619872863
+2026-09-04 17:44:51,907 - aiogram.event - INFO - Update id=630801720 is handled. Duration 484 ms by bot id=8619872863
+2026-09-04 17:44:53,738 - aiogram.event - INFO - Update id=630801721 is handled. Duration 750 ms by bot id=8619872863
+2026-09-04 17:44:58,700 - handlers.accounts - INFO - Попытка входа с номером +19139148556 для пользователя 8728680606
+2026-09-04 17:44:58,833 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-09-04 17:45:00,798 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-09-04 17:45:01,321 - telethon.client.users - INFO - Phone migrated to 1
+2026-09-04 17:45:01,432 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 1
+2026-09-04 17:45:01,544 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-09-04 17:45:01,545 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-09-04 17:45:01,545 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2026-09-04 17:45:03,361 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2026-09-04 17:45:04,316 - handlers.accounts - INFO - Код отправлен на номер +19139148556
+2026-09-04 17:45:04,786 - aiogram.event - INFO - Update id=630801722 is handled. Duration 6091 ms by bot id=8619872863
+2026-09-04 17:45:11,676 - aiogram.event - INFO - Update id=630801723 is handled. Duration 512 ms by bot id=8619872863
+2026-09-04 17:45:43,551 - aiogram.event - INFO - Update id=630801724 is handled. Duration 732 ms by bot id=8619872863
+2026-09-04 17:45:50,640 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2026-09-04 17:45:50,641 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2026-09-04 17:45:50,650 - aiogram.event - INFO - Update id=630801725 is not handled. Duration 243 ms by bot id=8619872863
+2026-09-04 17:45:50,651 - aiogram.event - ERROR - Cause exception while process update id=630801725 by bot id=8619872863
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...=None, force_reply=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.13/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\handlers\accounts.py", line 397, in retry_phone_callback
+    await callback.message.edit_text(
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "📞 Введите номер телефона заново.\nПример: +19876001213",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        reply_markup=get_phone_reply_kb()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\aiogram\types\message.py", line 4271, in edit_text
+    return EditMessageText(
+           ~~~~~~~~~~~~~~~^
+        chat_id=self.chat.id,
+        ^^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).as_(self._bot)
+    ^
+  File "C:\Users\Honor\PycharmProjects\ТгБотРассылка\.venv\Lib\site-packages\pydantic\main.py", line 263, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=ReplyKeyboardMarkup(keybo...=None, force_reply=None), input_type=ReplyKeyboardMarkup]
+    For further information visit https://errors.pydantic.dev/2.13/v/model_type
+2026-09-04 17:45:53,368 - aiogram.event - INFO - Update id=630801726 is not handled. Duration 26 ms by bot id=8619872863
+2026-09-04 17:46:05,883 - aiogram.event - INFO - Update id=630801727 is handled. Duration 445 ms by bot id=8619872863
+2026-09-04 17:46:07,913 - aiogram.event - INFO - Update id=630801728 is handled. Duration 825 ms by bot id=8619872863
+2026-09-04 17:46:10,432 - aiogram.event - INFO - Update id=630801729 is handled. Duration 237 ms by bot id=8619872863
+2026-09-04 17:46:13,161 - aiogram.event - INFO - Update id=630801730 is handled. Duration 248 ms by bot id=8619872863
+2026-09-04 17:46:14,661 - aiogram.event - INFO - Update id=630801731 is handled. Duration 260 ms by bot id=8619872863
+2026-09-04 17:46:15,626 - aiogram.event - INFO - Update id=630801732 is handled. Duration 230 ms by bot id=8619872863
+2026-09-04 17:46:16,921 - aiogram.event - INFO - Update id=630801733 is handled. Duration 249 ms by bot id=8619872863
+2026-09-04 17:48:41,327 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-04 17:48:41,328 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-04 17:48:41,329 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8619872863)
+2026-09-04 17:48:41,587 - utils.scheduler - INFO - ⏹ Планировщик остановлен
+2026-09-04 17:48:41,590 - handlers.accounts - INFO - ✅ Аккаунты сохранены в data.json
+2026-09-04 17:48:41,592 - aiogram.dispatcher - INFO - Polling stopped for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 17:48:41,595 - __main__ - INFO - Бот остановлен.
+2026-09-04 17:59:20,980 - handlers.accounts - INFO - 📂 Аккаунты загружены из data.json
+2026-09-04 17:59:20,995 - utils.scheduler - INFO - 🔄 Планировщик запущен
+2026-09-04 17:59:20,995 - aiogram.dispatcher - INFO - Start polling
+2026-09-04 17:59:21,258 - aiogram.dispatcher - INFO - Run polling for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 17:59:37,154 - aiogram.event - INFO - Update id=630801734 is handled. Duration 351 ms by bot id=8619872863
+2026-09-04 17:59:39,699 - aiogram.event - INFO - Update id=630801735 is handled. Duration 240 ms by bot id=8619872863
+2026-09-04 17:59:41,680 - aiogram.event - INFO - Update id=630801736 is handled. Duration 262 ms by bot id=8619872863
+2026-09-04 17:59:47,304 - aiogram.event - INFO - Update id=630801737 is handled. Duration 225 ms by bot id=8619872863
+2026-09-04 17:59:48,513 - aiogram.event - INFO - Update id=630801738 is handled. Duration 234 ms by bot id=8619872863
+2026-09-04 17:59:49,515 - aiogram.event - INFO - Update id=630801739 is handled. Duration 227 ms by bot id=8619872863
+2026-09-04 17:59:50,364 - aiogram.event - INFO - Update id=630801740 is handled. Duration 240 ms by bot id=8619872863
+2026-09-04 17:59:51,222 - aiogram.event - INFO - Update id=630801741 is handled. Duration 262 ms by bot id=8619872863
+2026-09-04 17:59:51,942 - aiogram.event - INFO - Update id=630801742 is handled. Duration 230 ms by bot id=8619872863
+2026-09-04 17:59:54,670 - aiogram.event - INFO - Update id=630801743 is handled. Duration 583 ms by bot id=8619872863
+2026-09-04 17:59:55,659 - aiogram.event - INFO - Update id=630801744 is handled. Duration 233 ms by bot id=8619872863
+2026-09-04 18:00:33,027 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-04 18:00:33,028 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-04 18:00:33,028 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8619872863)
+2026-09-04 18:00:33,279 - utils.scheduler - INFO - ⏹ Планировщик остановлен
+2026-09-04 18:00:33,281 - handlers.accounts - INFO - ✅ Аккаунты сохранены в data.json
+2026-09-04 18:00:33,285 - aiogram.dispatcher - INFO - Polling stopped for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 18:00:33,288 - __main__ - INFO - Бот остановлен.
