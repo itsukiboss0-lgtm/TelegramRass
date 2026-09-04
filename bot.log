@@ -173,3 +173,21 @@ reply_markup
 2026-09-04 18:00:33,281 - handlers.accounts - INFO - ✅ Аккаунты сохранены в data.json
 2026-09-04 18:00:33,285 - aiogram.dispatcher - INFO - Polling stopped for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
 2026-09-04 18:00:33,288 - __main__ - INFO - Бот остановлен.
+2026-09-04 18:23:56,675 - handlers.accounts - INFO - 📂 Аккаунты загружены из data.json
+2026-09-04 18:24:15,002 - handlers.accounts - INFO - 📂 Аккаунты загружены из data.json
+2026-09-04 18:28:02,459 - handlers.accounts - INFO - 📂 Аккаунты загружены из data.json
+2026-09-04 18:28:02,471 - utils.scheduler - INFO - 🔄 Планировщик запущен
+2026-09-04 18:28:02,471 - aiogram.dispatcher - INFO - Start polling
+2026-09-04 18:28:02,737 - aiogram.dispatcher - INFO - Run polling for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 18:28:06,381 - aiogram.event - INFO - Update id=630801745 is handled. Duration 380 ms by bot id=8619872863
+2026-09-04 18:28:08,561 - aiogram.event - INFO - Update id=630801746 is handled. Duration 236 ms by bot id=8619872863
+2026-09-04 18:28:09,593 - aiogram.event - INFO - Update id=630801747 is handled. Duration 312 ms by bot id=8619872863
+2026-09-04 18:28:10,914 - aiogram.event - INFO - Update id=630801748 is handled. Duration 234 ms by bot id=8619872863
+2026-09-04 18:28:11,825 - aiogram.event - INFO - Update id=630801749 is handled. Duration 234 ms by bot id=8619872863
+2026-09-04 18:28:22,995 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-04 18:28:22,996 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-04 18:28:22,996 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8619872863)
+2026-09-04 18:28:23,252 - utils.scheduler - INFO - ⏹ Планировщик остановлен
+2026-09-04 18:28:23,258 - handlers.accounts - INFO - ✅ Аккаунты сохранены в data.json
+2026-09-04 18:28:23,263 - aiogram.dispatcher - INFO - Polling stopped for bot @MailPulseRobot id=8619872863 - 'Mail Pulse'
+2026-09-04 18:28:23,265 - __main__ - INFO - Бот остановлен.

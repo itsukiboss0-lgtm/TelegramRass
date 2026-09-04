@@ -1,23 +1,20 @@
 import os
-from datetime import datetime
+from dotenv import load_dotenv
 
+load_dotenv()  # загружает переменные из .env
 
-BOT_TOKEN = "8619872863:AAGYGdi7ULEnrFDADbUv-btfLpzkVsTHu00"
-
-# Данные для Telethon (получите на my.telegram.org)
-API_ID = 33841921
-API_HASH = "443181e66f03ad36cc0c57515698fbe2"
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+API_ID = int(os.getenv("API_ID", 123456))
+API_HASH = os.getenv("API_HASH")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "MailPulseRobot")
+SUPPORT_LINK = os.getenv("SUPPORT_LINK", "https://t.me/MailPulseHelper")
 
 MAX_ACCOUNTS = 1
 DATA_FILE = "data.json"
-BOT_USERNAME = "MailPulseRobot"  # замените на реальный юзернейм бота (без @)
-
-# Ссылка на поддержку
-SUPPORT_LINK = "https://t.me/MailPulseHelper"  # замените на реальную ссылку
-
-# Логирование
 LOG_FILE = "bot.log"
 LOG_LEVEL = "INFO"
-
-# Планировщик
 SCHEDULE_CHECK_INTERVAL = 60
+
+# Проверка, чтобы не запустить бота без токена
+if not BOT_TOKEN:
+    raise ValueError("❌ BOT_TOKEN не задан! Укажите его в .env или в переменных окружения.")
